@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sakhalar</string>
+    <string name="button_text1">Верно</string>
+    <string name="button_text2">Неверно</string>
+    <string name="button_text3">Ответить</string>
+    <string name="text">Ийэ</string>
+    <string name="text2">Мама</string>
+    <string name="text3">Правильный ли перевод?</string>
+</resources>
